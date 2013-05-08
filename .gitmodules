@@ -1,0 +1,45 @@
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git@github.com:smartcampuslab/ActionBarSherlock.git
+[submodule "CollapsibleSearchMenu"]
+	path = CollapsibleSearchMenu
+	url = git@github.com:smartcampuslab/CollapsibleSearchMenu.git
+[submodule "SlidingMenu"]
+	path = SlidingMenu
+	url = git@github.com:smartcampuslab/SlidingMenu.git
+[submodule "android.common"]
+	path = android.common
+	url = git@github.com:smartcampuslab/android.common.git
+[submodule "android.discovertrento.lib"]
+	path = android.discovertrento.lib
+	url = git@github.com:smartcampuslab/android.discovertrento.lib.git
+[submodule "android.feedback"]
+	path = android.feedback
+	url = git@github.com:smartcampuslab/android.feedback.git
+[submodule "android.journeyplanner.lib"]
+	path = android.journeyplanner.lib
+	url = git@github.com:smartcampuslab/android.journeyplanner.lib.git
+[submodule "android.notifications"]
+	path = android.notifications
+	url = git@github.com:smartcampuslab/android.notifications.git
+[submodule "android.pushservice"]
+	path = android.pushservice
+	url = git@github.com:smartcampuslab/android.pushservice.git
+[submodule "android.remotefilestorage"]
+	path = android.remotefilestorage
+	url = git@github.com:smartcampuslab/android.remotefilestorage.git
+[submodule "android.security.client"]
+	path = android.security.client
+	url = git@github.com:smartcampuslab/android.security.client.git
+[submodule "android.smartcampus.template"]
+	path = android.smartcampus.template
+	url = git@github.com:smartcampuslab/android.smartcampus.template.git
+[submodule "android.smartcampus.template.standalone"]
+	path = android.smartcampus.template.standalone
+	url = git@github.com:smartcampuslab/android.smartcampus.template.standalone.git
+[submodule "android.storage"]
+	path = android.storage
+	url = git@github.com:smartcampuslab/android.storage.git
+[submodule "protocol-carrier"]
+	path = protocol-carrier
+	url = git@github.com:smartcampuslab/protocol-carrier.git
