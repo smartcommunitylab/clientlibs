@@ -43,3 +43,6 @@
 [submodule "protocol-carrier"]
 	path = protocol-carrier
 	url = git@github.com:smartcampuslab/protocol-carrier.git
+[submodule "ShowcaseView"]
+	path = ShowcaseView
+	url = git@github.com:smartcampuslab/ShowcaseView.git
