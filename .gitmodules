@@ -46,3 +46,6 @@
 [submodule "ShowcaseView"]
 	path = ShowcaseView
 	url = git@github.com:smartcampuslab/ShowcaseView.git
+[submodule "NineOldAndroids"]
+	path = NineOldAndroids
+	url = git@github.com:smartcampuslab/NineOldAndroids.git
